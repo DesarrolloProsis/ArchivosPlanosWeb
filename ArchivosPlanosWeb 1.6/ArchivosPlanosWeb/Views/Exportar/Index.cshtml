@@ -1,0 +1,151 @@
+﻿@model ArchivosPlanosWeb.Models.ControlesExportar
+@{
+    ViewBag.Title = "Index";
+}
+
+@section Scripts {
+    <script>
+
+        $(document).ready(function () {
+            LoadDelegaciones();
+            LoadPlazas();
+            LoadTurnos();
+        });
+
+        function LoadDelegaciones() {
+            $.ajax({
+                url: '@Url.Action("GetDelegaciones", "Exportar")',
+                type: "GET",
+                data: "{}",
+                cache: false,
+                success: function (data) {
+                    $.each(data, function (i, row) {
+                        var $option = $('<option>');
+                        $option.val(row.Value);
+                        $option.html(row.Text);
+                        $('#DelegacionesId').append($option);
+                    });
+                },
+                error: function (ex) {
+                    alert("Error!!!" + ex);
+                },
+            });
+        }
+
+        function LoadPlazas() {
+            $.ajax({
+                url: '@Url.Action("GetPlazaCobro", "Exportar")',
+                type: "GET",
+                cache: false,
+                success: function (data) {
+                    $.each(data, function (i, row) {
+                        var $option = $('<option>');
+                        $option.val(row.Value);
+                        $option.html(row.Text);
+                        $('#PlazaCobroId').append($option);
+                    });
+                },
+                error: function (ex) {
+                    alert("Error!!!" + ex)
+                },
+            });
+        }
+
+        function LoadTurnos() {
+            $.ajax({
+                url: '@Url.Action("GetTurnos", "Exportar")',
+                type: "GET",
+                cache: false,
+                success: function (data) {
+                    $.each(data, function (i, row) {
+                        var $option = $('<option>');
+                        $option.val(row.Value);
+                        $option.html(row.Text);
+                        $('#TurnoId').append($option);
+                    });
+                },
+                error: function (ex) {
+                    alert("Error!!!" + ex)
+                },
+            });
+        }
+    </script>
+}
+<style type="text/css">
+    .js div#preloader {
+        position: fixed;
+        left: 0;
+        top: 0;
+        z-index: 999;
+        width: 100%;
+        height: 100%;
+        overflow: visible;
+        background: #333 url('http://files.mimoymima.com/images/loading.gif') no-repeat center center;
+    }
+</style>
+
+<div id="preloader"></div>
+
+<h2 class="mt-4">Modulo: Exportar</h2>
+<p>En proceso...</p>
+
+@using (Html.BeginForm("Index", "Exportar", FormMethod.Post))
+{
+    <div class="row">
+        <div class="col-md-4">
+            <div class="form-group">
+                @Html.Label("Delegaciones")
+                @Html.DropDownListFor(x => x.DelegacionesId, new SelectList(string.Empty, "Value", "Text"), "Seleccionar una delegación", htmlAttributes: new { @class = "form-control" })
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-4">
+            <div class="form-group">
+                @Html.Label("Plazas de cobros")
+                @Html.DropDownListFor(x => x.PlazaCobroId, new SelectList(string.Empty, "Value", "Text"), "Seleccionar una plaza de cobro", htmlAttributes: new { @class = "form-control" })
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-4">
+            <div class="form-group">
+                @Html.Label("Turnos")
+                @Html.DropDownListFor(x => x.TurnoId, new SelectList(string.Empty, "Value", "Text"), "Seleccionar un turno", htmlAttributes: new { @class = "form-control" })
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-4">
+            <div class="form-group">
+                @Html.Label("Fecha de inicio")
+                @Html.EditorFor(x => x.FechaInicio)
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-4">
+            <input type="submit" class="btn btn-primary" value="Crear" />
+        </div>
+    </div>
+}
+
+<script>
+    jQuery(document).ready(function ($) {
+
+        // site preloader -- also uncomment the div in the header and the css style for #preloader
+        $(window).load(function () {
+            $('#preloader').fadeOut('slow', function () { $(this).remove(); });
+        });
+
+    });
+</script>
+
+
+
+
+
