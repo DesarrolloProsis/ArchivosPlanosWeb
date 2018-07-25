@@ -1,0 +1,980 @@
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\ApplicationInsights.config
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\ArchivosPlanosWeb.dll.config
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\ArchivosPlanosWeb.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\ArchivosPlanosWeb.pdb
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\csc.exe
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\csc.exe.config
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\csc.rsp
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\csi.exe
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\csi.exe.config
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\csi.rsp
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Console.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Security.Claims.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\vbc.exe
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\vbc.exe.config
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\vbc.rsp
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Antlr3.Runtime.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\EncriptCapufe.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\EntityFramework.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\HashClass.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Ionic.Zip.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AI.Web.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Newtonsoft.Json.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Oracle.ManagedDataAccess.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Owin.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Web.Helpers.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Web.Mvc.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Web.Optimization.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Web.Razor.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Web.WebPages.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\WebGrease.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Antlr3.Runtime.pdb
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\EntityFramework.xml
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AI.Web.xml
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.xml
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.xml
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Newtonsoft.Json.xml
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Web.Helpers.xml
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Web.Mvc.xml
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Web.Razor.xml
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Web.WebPages.xml
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Web.Optimization.xml
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\es\EntityFramework.resources.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\es\System.Web.Razor.resources.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\obj\Debug\ArchivosPlanosWeb.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\obj\Debug\ArchivosPlanosWeb.csproj.CopyComplete
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\obj\Debug\ArchivosPlanosWeb.dll
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\obj\Debug\ArchivosPlanosWeb.pdb
+C:\Users\Desarrollo2\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\obj\Debug\ArchivosPlanosWeb.csprojAssemblyReference.cache
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\ApplicationInsights.config
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\ArchivosPlanosWeb.dll.config
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\ArchivosPlanosWeb.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\ArchivosPlanosWeb.pdb
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\csc.exe
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\csc.exe.config
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\csc.rsp
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\csi.exe
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\csi.exe.config
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\csi.rsp
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Console.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Security.Claims.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\vbc.exe
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\vbc.exe.config
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\vbc.rsp
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Antlr3.Runtime.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\EncriptCapufe.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\EntityFramework.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\HashClass.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Ionic.Zip.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AI.Web.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Newtonsoft.Json.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Owin.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Web.Helpers.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Web.Mvc.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Web.Optimization.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Web.Razor.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Web.WebPages.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\WebGrease.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Antlr3.Runtime.pdb
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\EntityFramework.xml
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AI.Web.xml
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.xml
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.xml
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Newtonsoft.Json.xml
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Web.Helpers.xml
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Web.Mvc.xml
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Web.Razor.xml
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Web.WebPages.xml
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Web.Optimization.xml
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\es\EntityFramework.resources.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\es\System.Web.Razor.resources.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\obj\Debug\ArchivosPlanosWeb.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\obj\Debug\ArchivosPlanosWeb.csproj.CopyComplete
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\obj\Debug\ArchivosPlanosWeb.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\obj\Debug\ArchivosPlanosWeb.pdb
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\obj\Debug\ArchivosPlanosWeb.csprojAssemblyReference.cache
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Oracle.ManagedDataAccess.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Oracle.ManagedDataAccess.EntityFramework.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\ApplicationInsights.config
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\ArchivosPlanosWeb.dll.config
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\ArchivosPlanosWeb.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\ArchivosPlanosWeb.pdb
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\roslyn\csc.exe
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\roslyn\csc.exe.config
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\roslyn\csc.rsp
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\roslyn\csi.exe
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\roslyn\csi.exe.config
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\roslyn\csi.rsp
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\roslyn\System.AppContext.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\roslyn\System.Collections.Immutable.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\roslyn\System.Console.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\roslyn\System.Diagnostics.Process.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\roslyn\System.IO.Compression.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\roslyn\System.IO.FileSystem.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\roslyn\System.IO.Pipes.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\roslyn\System.Reflection.Metadata.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\roslyn\System.Security.AccessControl.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\roslyn\System.Security.Claims.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\roslyn\System.Security.Principal.Windows.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\roslyn\System.Threading.Thread.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\roslyn\System.ValueTuple.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\roslyn\System.Xml.XmlDocument.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\roslyn\System.Xml.XPath.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\roslyn\vbc.exe
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\roslyn\vbc.exe.config
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\roslyn\vbc.rsp
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\roslyn\VBCSCompiler.exe
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\roslyn\VBCSCompiler.exe.config
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\Antlr3.Runtime.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\EncriptCapufe.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\EntityFramework.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\EntityFramework.SqlServer.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\HashClass.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\Ionic.Zip.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\Microsoft.AI.Agent.Intercept.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\Microsoft.AI.DependencyCollector.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\Microsoft.AI.Web.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\Microsoft.AI.WindowsServer.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\Microsoft.ApplicationInsights.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\Microsoft.AspNet.Identity.Core.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\Microsoft.Owin.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.Cookies.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.Facebook.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.Google.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.OAuth.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.Twitter.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\Microsoft.Web.Infrastructure.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\Newtonsoft.Json.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\oracle.dataaccess.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\Oracle.ManagedDataAccess.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\Oracle.ManagedDataAccess.EntityFramework.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\Owin.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\System.Diagnostics.DiagnosticSource.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\System.Web.Helpers.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\System.Web.Mvc.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\System.Web.Optimization.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\System.Web.Razor.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\System.Web.WebPages.Deployment.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\System.Web.WebPages.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\System.Web.WebPages.Razor.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\WebGrease.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\Antlr3.Runtime.pdb
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\EntityFramework.xml
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\EntityFramework.SqlServer.xml
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\Microsoft.AI.DependencyCollector.xml
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\Microsoft.AI.Web.xml
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\Microsoft.AI.WindowsServer.xml
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\Microsoft.Owin.xml
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.xml
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.Cookies.xml
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.Facebook.xml
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.Google.xml
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.OAuth.xml
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.Twitter.xml
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\Newtonsoft.Json.xml
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\System.Diagnostics.DiagnosticSource.xml
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\System.Web.Helpers.xml
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\System.Web.Mvc.xml
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\System.Web.Razor.xml
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\System.Web.WebPages.xml
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\System.Web.WebPages.Deployment.xml
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\System.Web.WebPages.Razor.xml
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\System.Web.Optimization.xml
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\Microsoft.AspNet.Identity.Core.xml
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\es\EntityFramework.resources.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\es\EntityFramework.SqlServer.resources.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\es\System.Web.Helpers.resources.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\es\System.Web.Mvc.resources.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\es\System.Web.Razor.resources.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\es\System.Web.WebPages.resources.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\es\System.Web.WebPages.Deployment.resources.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\es\System.Web.WebPages.Razor.resources.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\es\System.Web.Optimization.resources.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\obj\Debug\ArchivosPlanosWeb.csprojAssemblyReference.cache
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\obj\Debug\ArchivosPlanosWeb.csproj.CoreCompileInputs.cache
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\obj\Debug\ArchivosPlanosWeb.csproj.CopyComplete
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\obj\Debug\ArchivosPlanosWeb.dll
+F:\ArchivosPlanosWeb2\ArchivosPlanosWeb\obj\Debug\ArchivosPlanosWeb.pdb
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\ApplicationInsights.config
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\ArchivosPlanosWeb.dll.config
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\ArchivosPlanosWeb.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\ArchivosPlanosWeb.pdb
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\csc.exe
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\csc.exe.config
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\csc.rsp
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\csi.exe
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\csi.exe.config
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\csi.rsp
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.AppContext.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Console.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Security.Claims.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Threading.Thread.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\vbc.exe
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\vbc.exe.config
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\vbc.rsp
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Antlr3.Runtime.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\EncriptCapufe.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\EntityFramework.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\HashClass.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Ionic.Zip.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AI.Web.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.ApplicationInsights.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Newtonsoft.Json.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Oracle.ManagedDataAccess.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Owin.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Web.Helpers.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Web.Mvc.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Web.Optimization.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Web.Razor.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Web.WebPages.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\WebGrease.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Antlr3.Runtime.pdb
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\EntityFramework.xml
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AI.Web.xml
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.xml
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.xml
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Newtonsoft.Json.xml
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Web.Helpers.xml
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Web.Mvc.xml
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Web.Razor.xml
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Web.WebPages.xml
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Web.Optimization.xml
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\es\EntityFramework.resources.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\es\System.Web.Helpers.resources.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\es\System.Web.Mvc.resources.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\es\System.Web.Razor.resources.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\es\System.Web.WebPages.resources.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\es\System.Web.Optimization.resources.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\obj\Debug\ArchivosPlanosWeb.csprojResolveAssemblyReference.cache
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\obj\Debug\ArchivosPlanosWeb.csproj.CoreCompileInputs.cache
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\obj\Debug\ArchivosPlanosWeb.dll
+C:\Users\PCS186-OPE01\Desktop\ArchivosPlanosWeb\ArchivosPlanosWeb\obj\Debug\ArchivosPlanosWeb.pdb
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\ApplicationInsights.config
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\ArchivosPlanosWeb.dll.config
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\ArchivosPlanosWeb.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\ArchivosPlanosWeb.pdb
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\csc.exe
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\csc.exe.config
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\csc.rsp
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\csi.exe
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\csi.exe.config
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\csi.rsp
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Console.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Security.Claims.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\vbc.exe
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\vbc.exe.config
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\vbc.rsp
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Antlr3.Runtime.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\EncriptCapufe.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\EntityFramework.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\HashClass.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Ionic.Zip.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AI.Web.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Newtonsoft.Json.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Oracle.ManagedDataAccess.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Owin.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Web.Helpers.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Web.Mvc.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Web.Optimization.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Web.Razor.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Web.WebPages.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\WebGrease.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Antlr3.Runtime.pdb
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\EntityFramework.xml
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AI.Web.xml
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.xml
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.xml
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Newtonsoft.Json.xml
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Web.Helpers.xml
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Web.Mvc.xml
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Web.Razor.xml
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Web.WebPages.xml
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Web.Optimization.xml
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\es\EntityFramework.resources.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\es\System.Web.Razor.resources.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\obj\Debug\ArchivosPlanosWeb.csprojAssemblyReference.cache
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\obj\Debug\ArchivosPlanosWeb.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\obj\Debug\ArchivosPlanosWeb.csproj.CopyComplete
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\obj\Debug\ArchivosPlanosWeb.dll
+C:\Users\Desarrollo3\Desktop\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\obj\Debug\ArchivosPlanosWeb.pdb
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\ApplicationInsights.config
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\ArchivosPlanosWeb.dll.config
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\ArchivosPlanosWeb.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\ArchivosPlanosWeb.pdb
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\csc.exe
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\csc.exe.config
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\csc.rsp
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\csi.exe
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\csi.exe.config
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\csi.rsp
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Console.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Security.Claims.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\vbc.exe
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\vbc.exe.config
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\vbc.rsp
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Antlr3.Runtime.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\EncriptCapufe.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\EntityFramework.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\HashClass.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Ionic.Zip.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AI.Web.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Newtonsoft.Json.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Oracle.ManagedDataAccess.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Owin.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Web.Helpers.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Web.Mvc.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Web.Optimization.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Web.Razor.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Web.WebPages.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\WebGrease.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Antlr3.Runtime.pdb
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\EntityFramework.xml
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AI.Web.xml
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.xml
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.xml
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Newtonsoft.Json.xml
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Web.Helpers.xml
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Web.Mvc.xml
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Web.Razor.xml
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Web.WebPages.xml
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\System.Web.Optimization.xml
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\es\EntityFramework.resources.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\es\System.Web.Razor.resources.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\obj\Debug\ArchivosPlanosWeb.csprojAssemblyReference.cache
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\obj\Debug\ArchivosPlanosWeb.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\obj\Debug\ArchivosPlanosWeb.csproj.CopyComplete
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\obj\Debug\ArchivosPlanosWeb.dll
+C:\Users\Desarrollo3\Desktop\Miguel\IIS BUENO\ArchivosPlanosWeb\ArchivosPlanosWeb\obj\Debug\ArchivosPlanosWeb.pdb
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\ApplicationInsights.config
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\ArchivosPlanosWeb.dll.config
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\ArchivosPlanosWeb.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\ArchivosPlanosWeb.pdb
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\roslyn\csc.exe
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\roslyn\csc.exe.config
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\roslyn\csc.rsp
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\roslyn\csi.exe
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\roslyn\csi.exe.config
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\roslyn\csi.rsp
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\roslyn\System.Console.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\roslyn\System.Security.Claims.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\roslyn\vbc.exe
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\roslyn\vbc.exe.config
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\roslyn\vbc.rsp
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\Antlr3.Runtime.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\EncriptCapufe.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\EntityFramework.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\HashClass.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\Ionic.Zip.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\Microsoft.AI.Web.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\Microsoft.Owin.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\Newtonsoft.Json.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\Oracle.ManagedDataAccess.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\Owin.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\System.Web.Helpers.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\System.Web.Mvc.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\System.Web.Optimization.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\System.Web.Razor.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\System.Web.WebPages.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\WebGrease.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\Antlr3.Runtime.pdb
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\EntityFramework.xml
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\Microsoft.AI.Web.xml
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\Microsoft.Owin.xml
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.xml
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\Newtonsoft.Json.xml
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\System.Web.Helpers.xml
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\System.Web.Mvc.xml
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\System.Web.Razor.xml
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\System.Web.WebPages.xml
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\System.Web.Optimization.xml
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\es\EntityFramework.resources.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\es\System.Web.Razor.resources.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\obj\Debug\ArchivosPlanosWeb.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\obj\Debug\ArchivosPlanosWeb.csproj.CopyComplete
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\obj\Debug\ArchivosPlanosWeb.dll
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\obj\Debug\ArchivosPlanosWeb.pdb
+C:\Users\Desarrollo3\Desktop\ArchivosPlanosWebModel\ArchivosPlanosWeb\obj\Debug\ArchivosPlanosWeb.csprojAssemblyReference.cache

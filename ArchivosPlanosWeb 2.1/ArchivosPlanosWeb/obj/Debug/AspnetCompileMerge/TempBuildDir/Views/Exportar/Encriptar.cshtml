@@ -1,0 +1,87 @@
+﻿
+@model ArchivosPlanosWeb.Models.ControlesExportar
+@{
+    ViewBag.Title = "Subir";
+}
+
+
+
+
+
+<h2 class="text-danger">@ViewBag.error</h2>
+<h2 class="text-success">@ViewBag.correcto</h2>
+<h2>@ViewBag.mesaje</h2>
+
+
+@using (Html.BeginForm("Encriptar", "Exportar", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+
+    <div class="container">
+        <div class="col-md-4">
+            @Html.Label("Encriptar", htmlAttributes: new { @class = "titulos" })
+        </div>
+        <div class="col-md-5">
+            <span class="btn btn-primary btn-file">
+                Seleccionar archivos <input name="file" id="file" type="file" multiple>
+            </span>
+            <!-- <td><input type="file" class="btn btn-primary blue" name="file" id="file" multiple /></td>-->
+        </div>
+        <div class="col-md-5">
+            <button type="submit" class="btn btn-primary crear">Comprimir</button>
+        </div>
+        <!---<button type="submit">Subir</button>-->
+    </div>
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@*
+
+    @model ArchivosPlanosWeb.Models.ControlesExportar
+        ViewBag.Title = "Encriptar";
+
+    }
+
+    <h2>File Upload Test</h2>
+
+
+    @using (Html.BeginForm("Encriptar", "Exportar", FormMethod.Post, new { enctype = "multipart/form-data" }))
+
+    {
+    <table>
+        <tr>
+            <td>File:</td>
+            <td><input type="file" name="file" id="file" multiple /></td>
+
+
+
+
+        </tr>
+
+
+        <tr>
+            <td><input type="submit" name="submit" value="Upload" /></td>
+
+        </tr>
+
+
+    </table>
+    }*@
