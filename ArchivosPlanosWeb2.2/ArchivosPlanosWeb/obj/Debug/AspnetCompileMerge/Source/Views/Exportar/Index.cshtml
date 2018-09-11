@@ -1,0 +1,154 @@
+﻿@model ArchivosPlanosWeb.Models.ControlesExportar
+@{
+    ViewBag.Title = "Index";
+}
+
+@section Scripts {
+    <script>
+
+        $(document).ready(function () {
+            LoadDelegaciones();
+            LoadPlazas();
+            LoadTurnos();
+        });
+
+        function LoadDelegaciones() {
+            $.ajax({
+                url: '@Url.Action("GetDelegaciones", "Exportar")',
+                type: "GET",
+                data: "{}",
+                cache: false,
+                success: function (data) {
+                    $.each(data, function (i, row) {
+                        var $option = $('<option>');
+                        $option.val(row.Value);
+                        $option.html(row.Text);
+                        $('#DelegacionesId').append($option);
+                    });
+                },
+                error: function (ex) {
+                    alert("Error!!!" + ex);
+                },
+            });
+        }
+
+        function LoadPlazas() {
+            $.ajax({
+                url: '@Url.Action("GetPlazaCobro", "Exportar")',
+                type: "GET",
+                cache: false,
+                success: function (data) {
+                    $.each(data, function (i, row) {
+                        var $option = $('<option>');
+                        $option.val(row.Value);
+                        $option.html(row.Text);
+                        $('#PlazaCobroId').append($option);
+                    });
+                },
+                error: function (ex) {
+                    alert("Error!!!" + ex)
+                },
+            });
+        }
+
+        function LoadTurnos() {
+            $.ajax({
+                url: '@Url.Action("GetTurnos", "Exportar")',
+                type: "GET",
+                cache: false,
+                success: function (data) {
+                    $.each(data, function (i, row) {
+                        var $option = $('<option>');
+                        $option.val(row.Value);
+                        $option.html(row.Text);
+                        $('#TurnoId').append($option);
+                    });
+                },
+                error: function (ex) {
+                    alert("Error!!!" + ex)
+                },
+            });
+        }
+    </script>
+}
+
+
+<div id="preloader"></div>
+
+
+
+@using (Html.BeginForm("Index", "Exportar", FormMethod.Post))
+{<div class="container">
+        <div class="row">
+            <div class="col-md-4">
+                <div class="form-group">
+                    @Html.Label("Delegaciones", htmlAttributes: new { @class = "titulos", id = "top" })
+                    @Html.DropDownListFor(x => x.DelegacionesId, new SelectList(string.Empty, "Value", "Text"), "Seleccionar una delegación", htmlAttributes: new { @class = "form-control" })
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-4">
+                <div class="form-group">
+                    @Html.Label("Plazas de cobros", htmlAttributes: new { @class = "titulos" })
+                    @Html.DropDownListFor(x => x.PlazaCobroId, new SelectList(string.Empty, "Value", "Text"), "Seleccionar una plaza de cobro", htmlAttributes: new { @class = "form-control" })
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-4">
+                <div class="form-group">
+                    @Html.Label("Turnos", htmlAttributes: new { @class = "titulos" })
+                    @Html.DropDownListFor(x => x.TurnoId, new SelectList(string.Empty, "Value", "Text"), "Seleccionar un turno", htmlAttributes: new { @class = "form-control" })
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-4">
+                <div class="form-group">
+                    @Html.Label("Fecha de inicio", htmlAttributes: new { @class = "titulos" })
+                    @Html.EditorFor(x => x.FechaInicio)
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-4">
+                <input type="submit" class="btn btn-primary crear" value="Exportar" id="top2" />
+
+            </div>
+        </div>
+
+    </div>
+
+}
+@*<div class="container">
+        <h2>Large Modal</h2>
+        <!-- Trigger the modal with a button -->
+        <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Open Large Modal</button>
+        <!-- Modal -->
+        <div class="modal fade" id="myModal" role="dialog">
+            <div class="modal-dialog modal-lg">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                        <h4 class="modal-title">Modal Header</h4>
+                    </div>
+                    <div class="modal-body">
+
+                        <textarea class="form-control" id="#myModal">ghghghggy</textarea>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Mandar Comentario</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>*@
+
+
+
